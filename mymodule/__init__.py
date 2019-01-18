@@ -1,2 +1,2 @@
-from mbptechtalk.gpu import mm_jit
-from mbptechtalk.mymath import mm
+from mymodule.gpu import mm_jit
+from mymodule.mymath import mm
