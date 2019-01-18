@@ -14,7 +14,6 @@ def main():
     np.dot(a,b)
     logging.info('np.dot Finished')
     logging.info('All done')
-    print('!')
 
 if __name__ == "__main__":
     main()
